@@ -16,7 +16,8 @@
  
 <h1>Fade to Black software</h1>
 
-https://www.osmreview.com/2020/04/fade-to-black-review.html?m=1
+
+<a href="https://www.osmreview.com/2020/04/fade-to-black-review.html?m=1">Fade to Black review</a>
 
 
 If you are thinking that Fade to Black was a tool. Then you re totally wrong. Fade To Black is neither a tool nor an app, but it's a course consisting of over 80 videos that will teach you the entire video production process.
